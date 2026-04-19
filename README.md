@@ -112,7 +112,7 @@ For YouTube sources, I collected relevant videos from each creator’s public ch
 - Platform: YouTube
 - Profile/Website: https://www.youtube.com/@tommyclark
 - Recent content collected: https://www.youtube.com/watch?v=5lcZl4iEjI0
-- Date: September 30, 2024
+- Date: September, 30th 2024
 - Why selected: Strong fit for LinkedIn content strategy, B2B SaaS lead generation, and practical organic growth execution.
 
 ## 8. George Coudounaris
@@ -126,7 +126,7 @@ For YouTube sources, I collected relevant videos from each creator’s public ch
 - Platform: YouTube
 - Profile/Website: https://www.youtube.com/@davidellisgrowth
 - Recent content collected: https://www.youtube.com/watch?v=HMHGfcaMFlg
-- Date: October 15, 2025
+- Date: October, 15th 2025
 - Why selected: Strong fit for LinkedIn organic content strategy, B2B audience growth, and practical content systems that support customer acquisition.
 
 ## 10. Chris Walker
