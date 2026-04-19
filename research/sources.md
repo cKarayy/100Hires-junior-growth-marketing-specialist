@@ -1,25 +1,8 @@
-## Research Project Topic
-LinkedIn Organic Content Strategy for B2B SaaS
-
-## Why I Chose This Topic
-I chose this topic because LinkedIn is one of the most relevant organic channels for B2B SaaS marketing. It is a strong fit for audience building, founder-led content, demand generation, and trust-based distribution.
-
 ## Research Scope
-This repository collects high-signal public content from practitioners who actively share actionable insights on B2B SaaS marketing, LinkedIn content, positioning, and content distribution.
-
-## Repository Structure
-- `research/sources.md` – expert list with links, dates, and annotations
-- `research/linkedin-posts/` – LinkedIn posts organized by author
-- `research/youtube-transcripts/` – YouTube transcripts organized by video
-- `research/other/` – additional supporting material
+This repository collects high-signal public content from practitioners who actively share actionable insights on B2B SaaS marketing, LinkedIn content, positioning, thought leadership, and content distribution.
 
 ## Research Goal
-The goal of this project is to build a clean, usable research base that could support a real B2B SaaS LinkedIn playbook later.
-
-## Collection Method
-For LinkedIn sources, I manually collected recent public posts from selected experts and organized them by author in the repository.
-
-For YouTube sources, I collected relevant videos from each creator’s public channel and used Codex to help with transcript collection, organization, and research preparation.
+The goal of this project is to build a clean, usable research base that can support a practical LinkedIn organic content playbook for B2B SaaS.
 
 # Sources
 ## 1. Dave Gerhardt
