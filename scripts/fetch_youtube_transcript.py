@@ -23,7 +23,10 @@ def parse_args() -> argparse.Namespace:
         "--output",
         type=Path,
         default=DEFAULT_OUTPUT,
-        help=f"Output markdown path (default: {DEFAULT_OUTPUT.as_posix()})",
+        help=(
+            "Output markdown path. "
+            f"Defaults to {DEFAULT_OUTPUT.as_posix()} if not provided."
+        ),
     )
     parser.add_argument(
         "--title",
@@ -116,6 +119,7 @@ def build_markdown(title: str, source_url: str, transcript_lines: list[str]) -> 
 
 def main() -> int:
     args = parse_args()
+    output_path = Path(args.output)
 
     try:
         video_id = extract_video_id(args.url)
@@ -124,11 +128,11 @@ def main() -> int:
         print(f"Error: {exc}", file=sys.stderr)
         return 1
 
-    args.output.parent.mkdir(parents=True, exist_ok=True)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     markdown = build_markdown(args.title, args.url, transcript_lines)
-    args.output.write_text(markdown, encoding="utf-8")
+    output_path.write_text(markdown, encoding="utf-8")
 
-    print(f"Saved transcript to {args.output.as_posix()}")
+    print(f"Saved transcript to {output_path.as_posix()}")
     return 0
 
 
