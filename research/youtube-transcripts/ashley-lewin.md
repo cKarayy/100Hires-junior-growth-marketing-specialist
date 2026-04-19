@@ -1,12 +1,49 @@
-# TODO: Add video title
+# Ashley Lewin
 
 ## Video
-- Title: TODO: Add video title
+- Title: Building a Sustainable Organic Content Strategy | B2B Roundtable
 - URL: https://www.youtube.com/watch?v=j-ofOpioKWM
-- Date: TODO: Add video date
-- Channel: TODO: Add channel name
-- Hosts: TODO: Add host names
-- Guest: TODO: Add guest name
+- Date: March 5, 2025
+- Channel: Refine Labs
+- Hosts: Megan Bowen, Evan Hughes
+- Guest: Ashley Lewin
+
+## Collection Method
+Transcript collected using Codex in Cursor with a local Python script powered by `youtube-transcript-api`.
+
+## Main Idea
+This roundtable argues that effective organic content and thought leadership require a clear point of view, a strong understanding of the audience, and a repeatable system for content creation and distribution. The discussion emphasizes that content becomes more effective when it is differentiated, helpful, consistent, authentic, and aligned with a broader strategic narrative.
+
+## Why It Matters for This Project
+This video is highly relevant to LinkedIn Organic Content Strategy for B2B SaaS because it directly addresses how organizations and individuals can build trust and visibility through differentiated content, thought leadership, and consistent organic publishing. It is especially useful because it connects high-level strategy, such as point of view and strategic narrative, with practical execution across formats, company pages, and personal profiles.
+
+## Key Takeaways
+1. A strong and differentiated point of view should come before building an organic content program.
+2. Content strategy should be rooted in what the audience cares about, not only in what the company wants to say.
+3. Helpful and educational content builds trust and positions the brand or individual as a credible expert.
+4. Consistency matters more than occasional high-visibility posting, especially for building long-term trust and recognition.
+5. A small set of core messages can be repeated in different ways and formats without becoming ineffective.
+6. Different formats, such as video, text, clips, and visual assets, help the same message reach different types of learners.
+7. Authentic, less polished content can perform better because it feels more human and trustworthy.
+8. Thought leadership on LinkedIn benefits both the company and the individual through customer acquisition, recruiting, learning, and personal brand development.
+9. AI can be useful as a brainstorming partner, but not as a replacement for real expertise and original thinking.
+10. Strategic narrative helps align company messaging by starting with the customer’s world, then showing how the product helps them reach a better future state.
+
+## Notes
+- Strong source for both the strategic and practical sides of LinkedIn organic content.
+- Especially useful because it combines POV development, content systems, thought leadership, trust-building, and strategic narrative in one conversation.
+- More broad and discussion-based than a single-speaker tactical tutorial, but still highly relevant because it offers practitioner-level insight from a B2B marketing team.
+- Best used to support the argument that successful LinkedIn organic strategy in B2B SaaS requires differentiation, consistency, authenticity, and alignment across content, voice, and business narrative.
+
+## Raw Transcript
+
+# TODO: Building a Sustainable Organic Content Strategy | B2B Roundtable
+
+## Video
+- URL: https://www.youtube.com/watch?v=j-ofOpioKWM
+- Channel: Refine Labs
+- Hosts: Megan Bowen & Evan Hughes
+- Guest: Ashley Lewin
 
 ## Collection Method
 Transcript collected using Codex in Cursor with a local Python script powered by `youtube-transcript-api`.
