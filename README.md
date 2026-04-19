@@ -39,3 +39,21 @@
 
 ## Reflection
 This step improved my confidence with Cursor, GitHub workflows, repository management, extension setup, and technical documentation.
+
+## Research Project Topic
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Why I Chose This Topic
+I chose this topic because LinkedIn is one of the most relevant organic channels for B2B SaaS marketing. It is a strong fit for audience building, founder-led content, demand generation, and trust-based distribution.
+
+## Research Scope
+This repository collects high-signal public content from practitioners who actively share actionable insights on B2B SaaS marketing, LinkedIn content, positioning, and content distribution.
+
+## Repository Structure
+- `research/sources.md` – expert list with links, dates, and annotations
+- `research/linkedin-posts/` – LinkedIn posts organized by author
+- `research/youtube-transcripts/` – YouTube transcripts organized by video
+- `research/other/` – additional supporting material
+
+## Research Goal
+The goal of this project is to build a clean, usable research base that could support a real B2B SaaS LinkedIn playbook later.
