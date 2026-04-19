@@ -129,9 +129,9 @@ For YouTube sources, I collected relevant videos from each creator’s public ch
 - Date: October, 15th 2025
 - Why selected: Strong fit for LinkedIn organic content strategy, long-form B2B content systems, and practical content workflows that support trust-building and customer acquisition.
 
-## 10. Chris Walker
+## 10. Ashley Lewin
 - Platform: YouTube
 - Profile/Website: https://www.youtube.com/c/RefineLabs
 - Recent content collected: https://www.youtube.com/watch?v=j-ofOpioKWM
-- Date: March, 5th 2025
-- Why selected: Strong fit for organic content strategy, B2B SaaS demand generation, and sustainable content systems.
+- Date: March 5, 2025
+- Why selected: Strong fit for organic content strategy, thought leadership, and practical B2B content systems discussed in a Refine Labs roundtable format.

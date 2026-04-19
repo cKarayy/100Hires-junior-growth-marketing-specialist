@@ -12,6 +12,14 @@ from urllib.parse import parse_qs, urlparse
 
 DEFAULT_OUTPUT = Path("research/youtube-transcripts/michelle-j-raymond.md")
 TITLE_PLACEHOLDER = "TODO: Add video title"
+DATE_PLACEHOLDER = "TODO: Add video date"
+CHANNEL_PLACEHOLDER = "TODO: Add channel name"
+HOSTS_PLACEHOLDER = "TODO: Add host names"
+GUEST_PLACEHOLDER = "TODO: Add guest name"
+COLLECTION_METHOD = (
+    "Transcript collected using Codex in Cursor with a local Python script powered by "
+    "`youtube-transcript-api`."
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -32,6 +40,26 @@ def parse_args() -> argparse.Namespace:
         "--title",
         default=TITLE_PLACEHOLDER,
         help="Video title to include in the markdown header",
+    )
+    parser.add_argument(
+        "--date",
+        default=DATE_PLACEHOLDER,
+        help="Video date to include in the markdown header",
+    )
+    parser.add_argument(
+        "--channel",
+        default=CHANNEL_PLACEHOLDER,
+        help="Channel name to include in the markdown header",
+    )
+    parser.add_argument(
+        "--hosts",
+        default=HOSTS_PLACEHOLDER,
+        help="Host names to include in the markdown header",
+    )
+    parser.add_argument(
+        "--guest",
+        default=GUEST_PLACEHOLDER,
+        help="Guest name to include in the markdown header",
     )
     return parser.parse_args()
 
@@ -99,15 +127,30 @@ def clean_text(text: str) -> str:
     return text
 
 
-def build_markdown(title: str, source_url: str, transcript_lines: list[str]) -> str:
+def build_markdown(
+    title: str,
+    source_url: str,
+    transcript_lines: list[str],
+    date: str,
+    channel: str,
+    hosts: str,
+    guest: str,
+) -> str:
     transcript_text = "\n".join(transcript_lines)
     return "\n".join(
         [
             f"# {title}",
             "",
-            "## Metadata",
-            f"- Source URL: {source_url}",
-            "- Collection method: Transcript fetched with `youtube-transcript-api` via a local Python script.",
+            "## Video",
+            f"- Title: {title}",
+            f"- URL: {source_url}",
+            f"- Date: {date}",
+            f"- Channel: {channel}",
+            f"- Hosts: {hosts}",
+            f"- Guest: {guest}",
+            "",
+            "## Collection Method",
+            COLLECTION_METHOD,
             "",
             "## Raw Transcript",
             "",
@@ -129,7 +172,15 @@ def main() -> int:
         return 1
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    markdown = build_markdown(args.title, args.url, transcript_lines)
+    markdown = build_markdown(
+        title=args.title,
+        source_url=args.url,
+        transcript_lines=transcript_lines,
+        date=args.date,
+        channel=args.channel,
+        hosts=args.hosts,
+        guest=args.guest,
+    )
     output_path.write_text(markdown, encoding="utf-8")
 
     print(f"Saved transcript to {output_path.as_posix()}")
