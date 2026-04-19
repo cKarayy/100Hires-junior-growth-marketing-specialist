@@ -125,7 +125,7 @@ For YouTube sources, I collected relevant videos from each creator’s public ch
 ## 9. David Ellis
 - Platform: YouTube
 - Profile/Website: https://www.youtube.com/@davidellisgrowth
-- Recent content collected: https://www.youtube.com/watch?v=HMHGfcaMFlg
+- Recent content collected: https://www.youtube.com/watch?v=SyjhGtV8CxI
 - Date: October, 15th 2025
 - Why selected: Strong fit for LinkedIn organic content strategy, B2B audience growth, and practical content systems that support customer acquisition.
 
