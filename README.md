@@ -60,6 +60,11 @@ This repository collects high-signal public content from practitioners who activ
 ## Research Goal
 The goal of this project is to build a clean, usable research base that could support a real B2B SaaS LinkedIn playbook later.
 
+## Collection Method
+For LinkedIn sources, I manually collected recent public posts from selected experts and organized them by author in the repository.
+
+For YouTube sources, I collected relevant videos from each creator’s public channel and used Codex to help with transcript collection, organization, and research preparation.
+
 # Sources
 ## 1. Dave Gerhardt
 - Platform: LinkedIn
