@@ -39,3 +39,26 @@
 
 ## Reflection
 This step improved my confidence with Cursor, GitHub workflows, repository management, extension setup, and technical documentation.
+
+## Chosen Topic
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Why I Chose This Topic
+I chose this topic because it sits at the intersection of content, distribution, thought leadership, and B2B growth. It is also highly relevant to modern AI-assisted marketing workflows, where strong judgment still matters more than generic content output.
+
+## Repository Structure
+- `research/sources.md` — overview of selected experts and source links
+- `research/linkedin-posts/` — research notes for manually collected LinkedIn posts
+- `research/youtube-transcripts/` — transcript-based research notes from selected YouTube videos
+- `research/other/` — additional supporting materials
+
+## Collection Method
+For LinkedIn sources, I manually collected recent public posts from selected experts and organized them by author in the repository.
+
+For YouTube sources, I collected relevant videos from each creator’s public channel and used Codex in Cursor with a local transcript script to organize transcript-based research notes.
+
+## What I Collected
+I collected a focused set of LinkedIn posts and YouTube videos from selected B2B content and growth practitioners. The material covers positioning, point of view, distribution, thought leadership, long-form content systems, trust-building, repurposing, and practical organic content execution.
+
+## Why These Experts
+I selected these experts because they represent strong practitioner voices across different parts of LinkedIn organic content strategy for B2B SaaS. Together, they provide a balanced mix of strategic thinking, tactical execution, and repeatable content systems that can support a later playbook.
