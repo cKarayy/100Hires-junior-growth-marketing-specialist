@@ -133,5 +133,5 @@ For YouTube sources, I collected relevant videos from each creator’s public ch
 - Platform: YouTube
 - Profile/Website: https://www.youtube.com/c/RefineLabs
 - Recent content collected: https://www.youtube.com/watch?v=j-ofOpioKWM
-- Date: March 5, 2025
+- Date: March, 5th 2025
 - Why selected: Strong fit for organic content strategy, thought leadership, and practical B2B content systems discussed in a Refine Labs roundtable format.
