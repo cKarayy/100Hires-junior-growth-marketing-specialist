@@ -62,3 +62,10 @@ I collected a focused set of LinkedIn posts and YouTube videos from selected B2B
 
 ## Why These Experts
 I selected these experts because they represent strong practitioner voices across different parts of LinkedIn organic content strategy for B2B SaaS. Together, they provide a balanced mix of strategic thinking, tactical execution, and repeatable content systems that can support a later playbook.
+
+## Current Status
+- Initial setup completed
+- Research repository built and organized
+- LinkedIn sources collected and documented
+- YouTube transcripts collected and documented
+- Playbook / SOP stage in progress
