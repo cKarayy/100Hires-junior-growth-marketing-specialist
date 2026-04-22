@@ -20,7 +20,7 @@ Define one clear point of view or positioning anchor before building content pil
     https://www.youtube.com/watch?v=j-ofOpioKWM
 - Tas Bober  
     LinkedIn  
-    3 months ago (accessed 2026-04-19)  
+    3 months ago accessed 2026-04-22  
     https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
 
 ### 3.2 Build content around audience problems, not generic expertise
@@ -55,7 +55,7 @@ Choose a posting cadence you can actually sustain for months, not a burst strate
 
 - Ashley Faus  
     LinkedIn post  
-    1 month ago accessed 2026-04-19  
+    1 month ago accessed 2026-04-22  
     https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 - Ashley Lewin  
@@ -73,7 +73,7 @@ Treat every strong content asset as something to distribute, repurpose, and rela
 **Source:**  
 - Ross Simmonds  
     LinkedIn post      
-    2 months ago accessed 2026-04-19  
+    2 months ago accessed 2026-04-22  
     https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 
 ### 3.5 Long-form content should feed short-form LinkedIn execution
@@ -103,6 +103,113 @@ Use the founder or subject-matter expert’s personal profile as the primary org
   https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ## 4. Recommended Strategy
+
+The strategy recommended by this playbook is a **founder-led or expert-led LinkedIn organic system** supported by a small number of repeatable content pillars, a clear positioning anchor, and a long-form-to-short-form repurposing workflow. This is the most defensible strategy across the research set because it combines Tommy Clark’s conversion-oriented founder profile model, Ashley Lewin’s emphasis on differentiated POV and strategic narrative, Ross Simmonds’s distribution-first thinking, George Coudounaris’s ICP-centered helpful content model, and David Ellis’s long-form content system.
+
+### 4.1 Choose one positioning anchor
+
+Pick one topic, category, or market position the company or founder wants to own. This should act as the center of gravity for the content system. Devin Reed’s example of choosing one word to own and using it as a North Star is especially useful here because it keeps the brand focused and makes the content more recognizable to the right audience. Repeatedly tying posts back to the same anchor helps build mindshare over time instead of scattering attention across unrelated themes.
+
+**Recommendation**  
+Define one positioning anchor first, then build content around it instead of chasing unrelated topics.
+
+**Source:**  
+- Devin Reed  
+    LinkedIn  
+    6 months ago accessed 2026-04-22  
+    https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+
+### 4.2 Use 2–4 content pillars to make the system sustainable
+
+A structured LinkedIn system works better when content is organized into a small number of repeatable pillars rather than created from scratch every time. Devin Reed explicitly recommends identifying 2–3 content pillars as guardrails that keep the brand focused and aligned with audience pain points. The Refine Labs roundtable supports this by showing that once a strong point of view is established, content pillars can be used to support and repeat that opinion in a structured way. These pillars should sit under one main positioning anchor and help the team repeat core ideas without becoming random.
+
+**Recommendation**  
+Use 2–4 repeatable content pillars under one main positioning theme.
+
+**Sources**
+- **Devin Reed**  
+  LinkedIn  
+  6 months ago (accessed 2026-04-19)  
+  https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+
+- **Ashley Lewin**  
+  YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+  05.03.2025  
+  https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 4.3 Build one core asset, then repurpose aggressively
+
+The strongest operating model in this research set is to create one meaningful content asset and turn it into many downstream outputs. Refine Labs describes a repeatable content flywheel where one long-form recording becomes a newsletter, podcast episode, YouTube clip, short-form social content, and visual assets. David Ellis supports the same logic by treating long-form as the trust-building engine and short-form LinkedIn content as a repurposed layer built from that engine. Ross Simmonds reinforces the distribution side of this model by showing how one asset can be atomized, reformatted, redistributed, and extended across channels over time.
+
+**Recommendation**  
+Start with one core asset, then atomize it into LinkedIn posts, clips, email content, and supporting assets.
+
+**Source:**  
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    05.03.2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026 
+    October 15, 2025 
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+
+- Ross Simmonds  
+    LinkedIn post      
+    2 months ago accessed 2026-04-22  
+    https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
+
+### 4.4 Favor helpful, problem-aware content over product-first content
+
+George Coudounaris’s Rivet example shows that strong B2B content should help the audience understand their own problem more clearly before making the product the center of attention. In the example, helpful content builds trust by speaking directly to the ICP’s real jobs, pain points, and day-to-day reality, while the product is positioned as the natural conclusion rather than the focal point.
+
+**Recommendation:**  
+Create content that clarifies the audience’s world and pain points before directly pushing the product.
+
+**Source:**
+- George Coudounaris  
+  YouTube  
+  19.11.2025  
+  https://www.youtube.com/watch?v=HpuklBHd9nw
+
+### 4.5 Write in a human voice and keep the message consistent
+
+Ashley Faus and the Refine Labs roundtable both support a more human, recognizable content style. Faus argues that the line between personal and professional matters less than consistency, because audiences learn to recognize a creator through repeated tone, topics, and style. The Refine Labs roundtable reinforces this by recommending a well-documented brand voice that can adapt across mediums while still maintaining a consistent flow. Together, these sources suggest that trust and memory strengthen when the voice feels human, recognizable, and stable over time.
+
+**Recommendation**  
+Keep brand voice recognizable, human, and consistent across posts, even when adapting for different formats.
+
+**Source:**
+- Ashley Faus  
+  LinkedIn  
+  1 month ago (accessed 2026-04-19)  
+  https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
+
+- Ashley Lewin   
+  YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+  05.03.2025  
+  https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 4.6 Optimize for qualified attention, not just reach
+
+Dave Gerhardt highlights the reality of long and complex B2B buying cycles, while David Ellis emphasizes that reach and engagement alone do not necessarily translate into leads or revenue. Ellis argues that what matters more is whether content builds trust, increases meaningful time spent with the brand, and helps potential buyers move closer to a purchase decision. Taken together, these sources suggest that LinkedIn organic strategy should not be evaluated only through likes, impressions, or immediate conversions, but through the quality of attention it creates and its contribution to long-term demand.
+
+**Recommendation:**  
+Evaluate LinkedIn organic performance based on qualified attention, trust signals, and pipeline influence, not just likes or reach.
+
+**Source:**  
+- Dave Gerhardt 
+  LinkedIn  
+  1 month ago (accessed 2026-04-22)  
+  https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
+
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026 
+    October 15, 2025 
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+
+
 ## 5. Step-by-Step SOP
 ## 6. Content System
 ## 7. Measurement
