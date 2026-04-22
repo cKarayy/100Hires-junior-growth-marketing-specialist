@@ -10,17 +10,20 @@ This playbook is for B2B SaaS teams that want LinkedIn to function as a real gro
 ### 3.1 Start with a differentiated point of view
 Do not build a LinkedIn content program before defining what the company or expert actually believes. A strong point of view should come before content execution because differentiation is what helps content stand out in a crowded feed, especially when generic AI-assisted content is increasingly common. Ashley Lewin argues that a strong opinion should anchor the entire organic content and thought leadership program, while Tas Bober emphasizes that a distinct and valuable POV is the first requirement for writing on LinkedIn in a way that people remember.
 
-Recommendation: 
+**Recommendation:** 
 Define one clear point of view or positioning anchor before building content pillars.
-Source style for playbook: 
-- Ashley Lewin, 
-    YouTube, 
-    05.03.2025, 
+
+**Sources:**
+- Ashley Lewin  
+    YouTube  
+    05.03.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
-- Tas Bober, 
-    LinkedIn, 
-    3 months ago accessed 2026-04-19, 
+- Tas Bober  
+    LinkedIn  
+    3 months ago (accessed 2026-04-19)  
     https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
+
+
 
 ## 4. Recommended Strategy
 ## 5. Step-by-Step SOP
