@@ -13,14 +13,14 @@ Do not build a LinkedIn content program before defining what the company or expe
 **Recommendation:**   
 Define one clear point of view or positioning anchor before building content pillars.  
 
-**Sources:**
+**Source:**
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 - Tas Bober  
     LinkedIn  
-    3 months ago accessed 2026-04-22  
+    3 months ago accessed 22.04.2026  
     https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
 
 ### 3.2 Build content around audience problems, not generic expertise
@@ -32,12 +32,12 @@ Build content around real audience problems, buying context, and language rather
 **Source:**   
 - George Coudounaris  
     YouTube -  The 2026 B2B Content Strategy Most Marketers Miss  
-    November 19, 2025  
+    19.11.2025  
     https://www.youtube.com/watch?v=HpuklBHd9nw
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 3.3 Consistency matters more than occasional bursts
@@ -50,17 +50,17 @@ Choose a posting cadence you can actually sustain for months, not a burst strate
 **Source:** 
 - Tommy Clark   
     YouTube -  The Best LinkedIn Content Strategy for SaaS
-    September 30, 2024   
+    30.09.2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 - Ashley Faus  
     LinkedIn post  
-    1 month ago accessed 2026-04-22  
+    1 month ago accessed 22.04.2026  
     https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 3.4 Distribution is part of the job, not an afterthought
@@ -73,7 +73,7 @@ Treat every strong content asset as something to distribute, repurpose, and rela
 **Source:**  
 - Ross Simmonds  
     LinkedIn post      
-    2 months ago accessed 2026-04-22  
+    2 months ago accessed 22.04.2026  
     https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 
 ### 3.5 Long-form content should feed short-form LinkedIn execution
@@ -86,7 +86,7 @@ Use long-form content as the source material for LinkedIn posts instead of relyi
 **Source:**  
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ### 3.6 Personal profiles are usually the better starting point for early traction
@@ -96,10 +96,10 @@ Tommy Clark recommends that founders prioritize their personal account over the 
 **Recommendation:**  
 Use the founder or subject-matter expert’s personal profile as the primary organic growth surface, especially in the early stages.
 
-**Sources**
+**Source**
 - Tommy Clark   
   YouTube – The Best LinkedIn Content Strategy for SaaS   
-  September 30, 2024  
+  30.09.2024  
   https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ## 4. Recommended Strategy
@@ -116,7 +116,7 @@ Define one positioning anchor first, then build content around it instead of cha
 **Source:**  
 - Devin Reed  
     LinkedIn  
-    6 months ago accessed 2026-04-22  
+    6 months ago accessed 22.04.2026  
     https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 ### 4.2 Use 2–4 content pillars to make the system sustainable
@@ -126,15 +126,15 @@ A structured LinkedIn system works better when content is organized into a small
 **Recommendation:**  
 Use 2–4 repeatable content pillars under one main positioning theme.
 
-**Sources**
-- **Devin Reed**  
+**Source:**
+- Devin Reed  
   LinkedIn  
-  6 months ago (accessed 2026-04-19)  
+  6 months ago (accessed 22.04.2026)  
   https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
-- **Ashley Lewin**  
+- Ashley Lewin    
   YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-  March 5, 2025  
+  5.3.2025  
   https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 4.3 Build one core asset, then repurpose aggressively
@@ -147,17 +147,17 @@ Start with one core asset, then atomize it into LinkedIn posts, clips, email con
 **Source:**  
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ross Simmonds  
     LinkedIn post      
-    2 months ago accessed 2026-04-22  
+    2 months ago accessed 22.04.2026  
     https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 
 ### 4.4 Favor helpful, problem-aware content over product-first content
@@ -183,12 +183,12 @@ Keep brand voice recognizable, human, and consistent across posts, even when ada
 **Source:**
 - Ashley Faus  
   LinkedIn  
-  1 month ago (accessed 2026-04-22)  
+  1 month ago (accessed 22.04.2026)  
   https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 - Ashley Lewin   
   YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-  March 5, 2025  
+  5.3.2025  
   https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 4.6 Optimize for qualified attention, not just reach
@@ -201,12 +201,12 @@ Evaluate LinkedIn organic performance based on qualified attention, trust signal
 **Source:**
 - Dave Gerhardt  
   LinkedIn  
-  1 month ago (accessed 2026-04-19)  
+  1 month ago (accessed 19.04.2026)  
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ## 5. Step-by-Step SOP
@@ -219,7 +219,7 @@ Use the founder or subject-matter expert’s personal profile as the main Linked
 **Source:**
 - Tommy Clark    
   YouTube – The Best LinkedIn Content Strategy for SaaS  
-  September 30, 2024     
+  30.09.2024     
   https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ### 5.2 Define one positioning anchor
@@ -232,12 +232,12 @@ Define one positioning anchor first, then build content around it instead of cha
 **Source:**
 - Devin Reed  
   LinkedIn  
-  6 months ago (accessed 2026-04-19)  
+  6 months ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.3 Build 2–4 repeatable content pillars
@@ -250,12 +250,12 @@ Use 2–4 repeatable content pillars under one main positioning theme.
 **Source:**
 - Devin Reed    
   LinkedIn  
-  6 months ago (accessed 2026-04-23)  
+  6 months ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.4 Build content from real audience problems
@@ -267,12 +267,12 @@ Build content around real audience problems, buying context, and language rather
 **Source:**
 - George Coudounaris  
     YouTube -  The 2026 B2B Content Strategy Most Marketers Miss  
-    November 19, 2025  
+    19.11.2025  
     https://www.youtube.com/watch?v=HpuklBHd9nw
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.5 Create one core long-form asset first
@@ -284,12 +284,12 @@ Create one high-quality long-form asset first, then use it as the source materia
 **Source:**
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.6 Repurpose the core asset into LinkedIn-ready formats
@@ -301,17 +301,17 @@ Start with one core asset, then atomize it into LinkedIn posts, clips, email con
 **Source:**
 - Ross Simmonds  
   LinkedIn post  
-  2 months ago (accessed 2026-04-23)  
+  2 months ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.7 Publish consistently on a sustainable cadence
@@ -323,17 +323,17 @@ Choose a posting cadence you can actually sustain for months, and keep the voice
 **Source:**
 - Tommy Clark   
     YouTube -  The Best LinkedIn Content Strategy for SaaS  
-    September 30, 2024   
+    30.09.2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 - Ashley Faus  
   LinkedIn  
-  1 month ago (accessed 2026-04-23)  
+  1 month ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 5.8 Support posting with outbound engagement
@@ -345,7 +345,7 @@ Pair content publishing with deliberate engagement toward ICP accounts and categ
 **Source:**
 - Tommy Clark   
     YouTube -  The Best LinkedIn Content Strategy for SaaS  
-    September 30, 2024   
+    30.09.2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ### 5.9 Improve posts through review, not guesswork
@@ -357,12 +357,12 @@ Review performance regularly, improve format and messaging deliberately, and dou
 **Source:**
 - Tommy Clark   
     YouTube -  The Best LinkedIn Content Strategy for SaaS  
-    September 30, 2024   
+    30.09.2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 - Devin Reed  
     LinkedIn  
-    6 months ago accessed 2026-04-23  
+    6 months ago accessed 23.04.2026     
     https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 ### 5.10 Measure qualified attention, trust, and pipeline influence
@@ -373,15 +373,15 @@ Do not judge LinkedIn organic only by likes or raw reach. In B2B SaaS, the real 
 Evaluate LinkedIn organic performance based on qualified attention, trust signals, and pipeline influence, not just likes or reach.
 
 
-**Sources**
+**Source:**
 - Dave Gerhardt  
   LinkedIn  
-  1 month ago (accessed 2026-04-23)  
+  1 month ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ## 6. Content System
@@ -397,22 +397,22 @@ One core asset should be repurposed into multiple downstream pieces such as Link
 
 A simple version of this system is to create one core asset, repurpose it into several posts and supporting formats, publish consistently, support it with outbound engagement, and review what performs best. This makes the workflow more sustainable than creating every post from scratch.
 
-**Sources supporting this section**
+**Sources supporting this section:**
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    March 5, 2025    
+    5.3.2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 - Ross Simmonds  
     LinkedIn post      
-    2 months ago accessed 2026-04-23  
+    2 months ago accessed 23.04.2026     
     https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 - Tommy Clark   
     YouTube -  The Best LinkedIn Content Strategy for SaaS  
-    September 30, 2024    
+    30.09.2024    
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ## 7. Measurement
@@ -432,22 +432,22 @@ Performance should be reviewed on a regular schedule rather than through random 
 
 Success in this playbook is not defined only by likes or reach. A successful LinkedIn organic system should create three outcomes over time: stronger audience attention, stronger trust in the expert or brand, and stronger contribution to pipeline. If the right people are consuming the content, remembering the brand, and eventually converting into opportunities or customers, the system is working.
 
-Sources supporting this section :
+**Sources supporting this section:**
 - Dave Gerhardt  
   LinkedIn  
-  1 month ago (accessed 2026-04-23)  
+  1 month ago (accessed 23.04.2026)  
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 - David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
-    October 15, 2025  
+    15.10.2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 - Tommy Clark    
     YouTube -  The Best LinkedIn Content Strategy for SaaS   
-    September 30, 2024    
+    30.09.2024    
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 - Devin Reed  
     LinkedIn  
-    6 months ago accessed 2026-04-23  
+    6 months ago accessed 23.04.2026     
     https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 ## 8. Where Experts Disagree
@@ -457,12 +457,12 @@ Not all experts in this research set recommend the same operating model. In seve
 
 What Author A recommends
 Tommy Clark recommends a high-consistency founder-led posting model. He suggests posting frequently, often around five to seven times per week, and treating the founder’s personal profile as the main engine for visibility, learning, and demand generation.
-Source: Tommy Clark, YouTube, September 30, 2024,  
+Source: Tommy Clark, YouTube, 30.09.2024,  
 https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 What Author B recommends
 David Ellis places more emphasis on long-form depth than on short-form volume. His model argues that long-form content builds more trust, compresses time-to-familiarity, and should act as the source material for LinkedIn distribution rather than relying on constant standalone short-form posting.
-Source: David Ellis, YouTube, October 15, 2025,  
+Source: David Ellis, YouTube, 15.10.2025,  
 https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 Which side I take and why
@@ -472,12 +472,12 @@ I take a hybrid position, but I lean more toward David Ellis. I would not recomm
 
 What Author A recommends
 Dave Gerhardt’s source emphasizes that most B2B buyers are not in-market at any given time, which means LinkedIn content should not be judged only by immediate conversion. His framing supports thought leadership, mental availability, and future demand creation over narrow last-click thinking.
-Source: Dave Gerhardt, LinkedIn, 1 month ago (accessed 2026-04-23),   
+Source: Dave Gerhardt, LinkedIn, 1 month ago (accessed 23.04.2026),   
 https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 What Author B recommends
 George Coudounaris argues that content should help ideal customers solve the jobs they need done now, not someday. His example shows that helpful content works best when it speaks directly to the ICP’s real context, real pains, and immediate problems, with the product appearing later as the logical solution rather than the headline.
-Source: George Coudounaris, YouTube, November 19, 2025,  
+Source: George Coudounaris, YouTube, 19.11.2025,  
 https://www.youtube.com/watch?v=HpuklBHd9nw
 
 Which side I take and why
@@ -487,12 +487,12 @@ I take George’s side for content creation, but Dave’s side for measurement. 
 
 What Author A recommends
 Tas Bober argues that the first requirement for strong LinkedIn writing is a valuable and distinct point of view. In her framing, differentiation comes first. A creator needs a perspective clear enough to be recognized and remembered, especially in a feed increasingly filled with generic AI-assisted content.
-Source: Tas Bober, LinkedIn, 3 months ago (accessed 2026-04-23),
+Source: Tas Bober, LinkedIn, 3 months ago (accessed 23.04.2026),
 https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
 
 What Author B recommends
 Ashley Faus places less emphasis on having a sharp or “spiky” stance and more emphasis on building trust through consistency, recognizable tone, and human connection. Her view suggests that LinkedIn content becomes stronger when it feels conversational, natural, and relatable rather than overly engineered around distinctiveness alone.
-Source: Ashley Faus, LinkedIn, 1 month ago (accessed 2026-04-23),
+Source: Ashley Faus, LinkedIn, 1 month ago (accessed 23.04.2026),
 https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 Which side I take and why
@@ -514,7 +514,86 @@ Which side I take and why
 I side more with Tommy Clark for early-stage execution. For an early-stage B2B SaaS company, the founder or expert profile is usually the fastest and most effective way to build trust and reach the right audience. However, I also agree with Ashley Lewin that this profile should not operate without message discipline. So in this playbook, the founder profile is the main publishing engine, but the company-wide strategic narrative remains the foundation underneath it.
 
 ## 9. What I Rejected and Why
+Not every idea in the research set should be applied directly. Some recommendations are useful in principle but too extreme, too context-dependent, or too risky to include as standard guidance for an early-stage B2B SaaS LinkedIn playbook. The ideas below were considered carefully and rejected in their original form.
+
+### 9.1 I rejected daily posting as a universal default
+Tommy Clark strongly supports a high-frequency posting model and suggests that founders often benefit from posting five to seven times per week. I did not include that as a universal rule in this playbook. While this approach may work for founders with strong idea flow, fast feedback loops, and enough execution support, it can also push weaker teams into shallow content production and unsustainable habits. For this playbook, sustainability and substance matter more than trying to hit a daily quota. I kept Tommy’s emphasis on consistency, but I rejected the idea that very high posting frequency should be treated as the default for every B2B SaaS team.
+
+Source rejected :
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    30.09.2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+### 9.2 I rejected controversy as a built-in requirement for strong content
+Tas Bober’s source is useful because it emphasizes the need for a valuable and distinct point of view. However, I did not adopt the stronger implication that a good point of view should score highly on “controversy” as part of the Spiky POV framework. In B2B SaaS, differentiation matters, but forced sharpness can easily become performative, distracting, or less credible than a clear and useful position. For that reason, this playbook keeps the idea of having a distinct point of view, but rejects the idea that controversy should be treated as a standard design goal.
+
+Source rejected:
+- Tas Bober  
+    LinkedIn  
+    3 months ago accessed 23.04.2026   
+    https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
+
+### 9.3 I rejected “distribute one piece of content 50 times” as a literal operating rule
+Ross Simmonds makes an important point that content should be distributed far more aggressively than most teams expect. I agree with the principle, and this playbook absolutely includes repurposing, reposting, and multi-format distribution. However, I rejected the literal version of the rule to distribute one piece of content fifty times as a standard operating instruction. Used too mechanically, that approach can lead to repetition without judgment, message fatigue, or over-optimization around reuse instead of relevance. In this playbook, the better rule is to extend the life of strong content deliberately, but only when the format, audience, and timing still make sense.
+
+Source rejected:
+- Ross Simmonds  
+    LinkedIn post      
+    2 months ago accessed 23.04.2026   
+    https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
+
+### 9.4 I rejected fake-it-till-you-make-it LinkedIn strategy and one-size-fits-all AI playbooks
+
+Michelle J Raymond’s source argues that “fake it till you make it” is not a LinkedIn strategy that delivers results. The transcript also pushes back on two related mistakes: relying on generic advice that may not fit the business, and relying on AI-generated strategy documents without the judgment needed to evaluate whether they are correct, current, realistic, and relevant. Michelle specifically warns that flashy strategy documents can look impressive while still being impossible to execute in practice. For that reason, I rejected both fake-it-till-you-make-it LinkedIn execution and one-size-fits-all AI-generated playbooks as default operating models. In this playbook, AI is used to support execution and speed up workflows, but not to replace business-specific judgment, prioritization, and strategic fit.
+
+Source rejected:
+- Michelle J Raymond  
+    YouTube – How To Build Authority on LinkedIn (Without Faking It)  
+    18.2.2026  
+    https://www.youtube.com/watch?v=hlAoLfF7t2A
+
 ## 10. My Original Ideas
+The ideas in this section are not taken directly from the sources above. They are my own additions based on gaps I noticed while reviewing the research, many experts talk about creating, repurposing, and analyzing content, but none of them describe a simple system for capturing audience language and turning it into future messaging.
+
+One original idea I would add to this playbook is a message validation ledger. This would be a simple internal document where the team logs recurring comments, DM responses, objections from sales calls, repeated questions from prospects, and phrases that appear when people react strongly to a post. Instead of treating engagement as something temporary, the team would convert that feedback into a reusable message bank.
+
+This could work because LinkedIn organic is not only a publishing channel. It is also a live testing environment for positioning, language, and audience resonance. If the same objections, questions, or reactions keep appearing, they are strong signals about what the market actually notices or cares about. A message validation ledger would make it easier to refine hooks, improve positioning language, and create future content based on real audience feedback instead of assumptions.
+
 ## 11. Weaknesses of This Playbook
+*This playbook is designed to be practical and actionable, but it still has important limitations.*
+
+First, it is heavily shaped by founder-led and expert-led content models. That makes it useful for early-stage B2B SaaS teams, but it may be less effective for companies where no visible founder, operator, or subject-matter expert is willing to become the public face of the content system.
+
+Second, the playbook assumes that the company already has enough internal clarity to define a positioning anchor, content pillars, and a reasonably consistent point of view. If the company is still unclear about its messaging, ICP, or category position, this playbook may help with execution but not fully solve the underlying strategic confusion.
+
+Third, the playbook gives stronger guidance for organic content creation and distribution than for content operations at scale. It says less about team structure, editorial governance, approval workflows, legal review, or how a larger company should divide ownership across marketing, sales, and leadership.
+
+Fourth, some recommendations in the research set come from individual practitioners with specific business models, audiences, and operating styles. That means not every tactic will transfer equally well across different B2B SaaS categories, sales cycles, team sizes, or price points. A strategy that works for a founder-led consultancy or media-savvy operator may not work the same way for a more conservative or highly technical SaaS company.
+
+Fifth, this playbook is still stronger on strategic logic than on controlled validation. Many of the underlying ideas are convincing and experience-based, but they are not all tested here in a direct experimental way. The playbook reflects a reasoned synthesis of practitioner guidance, not a guaranteed formula.
+
+Finally, the playbook is intentionally focused on LinkedIn organic content strategy. Because of that, it does not fully address how LinkedIn should interact with paid distribution, SEO, community, email nurture, or broader brand systems over time. In practice, the strongest growth outcomes may come from combining LinkedIn with those other channels rather than treating it as a standalone engine.
+
 ## 12. Who I Would NOT Recommend Following and Why
-## 13. Sources
+This section does not mean the experts below are weak or unqualified overall. It only reflects whether I would recommend them as primary follows for someone specifically trying to build a practical LinkedIn Organic Content Strategy for B2B SaaS.
+
+### 12.1 George Coudounaris
+
+George Coudounaris is a strong source on B2B content strategy, ICP clarity, and problem-aware messaging. However, I would not recommend George as a primary expert for someone whose main goal is to learn LinkedIn organic execution specifically. The source I reviewed is more valuable for broader content strategy and demand thinking than for platform-specific LinkedIn mechanics such as profile strategy, cadence, format choices, or LinkedIn-native distribution tactics. I still find the source useful inside this playbook, but I would use it as a supporting strategic source rather than a main LinkedIn operator model.
+
+Source reviewed:
+- George Coudounaris  
+    YouTube -  The 2026 B2B Content Strategy Most Marketers Miss  
+    19.11.2025  
+    https://www.youtube.com/watch?v=HpuklBHd9nw
+
+### 12.2 Ross Simmonds
+
+Ross Simmonds is highly valuable on content distribution and repurposing, but I would not recommend Ross as a standalone source for someone early in building a LinkedIn organic system. The main reason is that his distribution philosophy is powerful but can be misapplied if a team does not already have a strong point of view, a clear positioning anchor, and good judgment about what content deserves amplification. If taken too literally, the advice can push beginners toward over-distribution before they have built enough substance. I would still recommend learning from Ross, but not as the first or only expert to follow for this topic.
+
+Source reviewed:
+- Ross Simmonds  
+    LinkedIn post      
+    2 months ago accessed 22.04.2026  
+    https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
