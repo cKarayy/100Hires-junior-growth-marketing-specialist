@@ -97,8 +97,8 @@ Tommy Clark recommends that founders prioritize their personal account over the 
 Use the founder or subject-matter expert’s personal profile as the primary organic growth surface, especially in the early stages.
 
 **Sources**
-- Tommy Clark  
-  YouTube – The Best LinkedIn Content Strategy for SaaS  
+- Tommy Clark   
+  YouTube – The Best LinkedIn Content Strategy for SaaS   
   September 30, 2024  
   https://www.youtube.com/watch?v=5lcZl4iEjI0
 
@@ -322,7 +322,7 @@ Choose a posting cadence you can actually sustain for months, and keep the voice
 
 **Source:**
 - Tommy Clark   
-    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    YouTube -  The Best LinkedIn Content Strategy for SaaS  
     September 30, 2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
@@ -344,7 +344,7 @@ Pair content publishing with deliberate engagement toward ICP accounts and categ
 
 **Source:**
 - Tommy Clark   
-    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    YouTube -  The Best LinkedIn Content Strategy for SaaS  
     September 30, 2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
@@ -356,7 +356,7 @@ Review performance regularly, improve format and messaging deliberately, and dou
 
 **Source:**
 - Tommy Clark   
-    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    YouTube -  The Best LinkedIn Content Strategy for SaaS  
     September 30, 2024   
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
@@ -411,8 +411,8 @@ A simple version of this system is to create one core asset, repurpose it into s
     2 months ago accessed 2026-04-23  
     https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 - Tommy Clark   
-    YouTube -  The Best LinkedIn Content Strategy for SaaS
-    September 30, 2024   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS  
+    September 30, 2024    
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ## 7. Measurement
@@ -441,9 +441,9 @@ Sources supporting this section :
     YouTube - The Best LinkedIn Content Strategy for 2026  
     October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
-- Tommy Clark   
-    YouTube -  The Best LinkedIn Content Strategy for SaaS
-    September 30, 2024   
+- Tommy Clark    
+    YouTube -  The Best LinkedIn Content Strategy for SaaS   
+    September 30, 2024    
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 - Devin Reed  
     LinkedIn  
