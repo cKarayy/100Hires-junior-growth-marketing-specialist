@@ -402,7 +402,7 @@ A simple version of this system is to create one core asset, repurpose it into s
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
     March 5, 2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
-- - David Ellis  
+- David Ellis  
     YouTube - The Best LinkedIn Content Strategy for 2026  
     October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
@@ -416,8 +416,39 @@ A simple version of this system is to create one core asset, repurpose it into s
     https://www.youtube.com/watch?v=5lcZl4iEjI0
 
 ## 7. Measurement
+### 7.1 Leading indicators
 
+Leading indicators help evaluate whether the content is gaining attention from the market before direct revenue outcomes appear. These include impressions, follower growth, audience growth, engagement quality, and signs that the right people are consistently seeing and interacting with the content. These metrics matter because LinkedIn organic often influences buyers before they are ready to buy, so early signal strength should not be dismissed just because conversion has not happened yet.
 
+### 7.2 Business indicators
+
+Business indicators matter more than vanity metrics. The system should track whether LinkedIn organic contributes to inbound interest, leads, customers, and self-reported attribution. It should also track whether more prospects mention LinkedIn as a discovery channel during sales conversations or intake forms. The goal is not to become visible for its own sake, but to create trust, top-of-mind awareness, and eventual commercial outcomes.
+
+### 7.3 Review rhythm
+
+Performance should be reviewed on a regular schedule rather than through random reactions to single posts. A practical rhythm is to check leading indicators weekly, review business indicators monthly, and look for patterns in what themes, hooks, formats, and ideas generate the strongest response. When something works, it should be repeated, improved, and reused instead of being treated as a one-time success.
+
+### 7.4 What success looks like
+
+Success in this playbook is not defined only by likes or reach. A successful LinkedIn organic system should create three outcomes over time: stronger audience attention, stronger trust in the expert or brand, and stronger contribution to pipeline. If the right people are consuming the content, remembering the brand, and eventually converting into opportunities or customers, the system is working.
+
+Sources supporting this section :
+- Dave Gerhardt  
+  LinkedIn  
+  1 month ago (accessed 2026-04-23)  
+  https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    September 30, 2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+- Devin Reed  
+    LinkedIn  
+    6 months ago accessed 2026-04-23  
+    https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 ## 8. Where Experts Disagree
 ## 9. What I Rejected and Why
