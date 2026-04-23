@@ -451,6 +451,68 @@ Sources supporting this section :
     https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
 
 ## 8. Where Experts Disagree
+Not all experts in this research set recommend the same operating model. In several cases, they emphasize different priorities, channels, or content mechanics. The disagreements below are useful because they force clearer choices about what kind of LinkedIn organic system this playbook should actually follow.
+
+### 8.1 Posting frequency vs content depth
+
+What Author A recommends
+Tommy Clark recommends a high-consistency founder-led posting model. He suggests posting frequently, often around five to seven times per week, and treating the founder’s personal profile as the main engine for visibility, learning, and demand generation.
+Source: Tommy Clark, YouTube, September 30, 2024,  
+https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+What Author B recommends
+David Ellis places more emphasis on long-form depth than on short-form volume. His model argues that long-form content builds more trust, compresses time-to-familiarity, and should act as the source material for LinkedIn distribution rather than relying on constant standalone short-form posting.
+Source: David Ellis, YouTube, October 15, 2025,  
+https://www.youtube.com/watch?v=SyjhGtV8CxI
+
+Which side I take and why
+I take a hybrid position, but I lean more toward David Ellis. I would not recommend building the system around daily posting alone if the underlying content is shallow. For B2B SaaS, trust and expertise matter more than volume by itself. My preferred model is to create one strong long-form asset first, then repurpose it into a smaller number of high-quality LinkedIn posts on a sustainable weekly cadence. This keeps the system credible without becoming too slow or too shallow.
+
+### 8.2 Long-term demand creation vs solving immediate audience problems
+
+What Author A recommends
+Dave Gerhardt’s source emphasizes that most B2B buyers are not in-market at any given time, which means LinkedIn content should not be judged only by immediate conversion. His framing supports thought leadership, mental availability, and future demand creation over narrow last-click thinking.
+Source: Dave Gerhardt, LinkedIn, 1 month ago (accessed 2026-04-23),   
+https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
+
+What Author B recommends
+George Coudounaris argues that content should help ideal customers solve the jobs they need done now, not someday. His example shows that helpful content works best when it speaks directly to the ICP’s real context, real pains, and immediate problems, with the product appearing later as the logical solution rather than the headline.
+Source: George Coudounaris, YouTube, November 19, 2025,  
+https://www.youtube.com/watch?v=HpuklBHd9nw
+
+Which side I take and why
+I take George’s side for content creation, but Dave’s side for measurement. In other words, I think the content itself should be problem-aware and useful now, because that is what makes it relevant and trusted. But I also agree with Dave that success should not be judged only by immediate conversion because B2B buying cycles are long. So the playbook creates content like George recommends, while measuring impact with some of Dave’s longer-horizon logic.
+
+### 8.3 Distinct point of view vs approachable human connection
+
+What Author A recommends
+Tas Bober argues that the first requirement for strong LinkedIn writing is a valuable and distinct point of view. In her framing, differentiation comes first. A creator needs a perspective clear enough to be recognized and remembered, especially in a feed increasingly filled with generic AI-assisted content.
+Source: Tas Bober, LinkedIn, 3 months ago (accessed 2026-04-23),
+https://www.linkedin.com/posts/tasbober_want-to-start-writing-on-linkedin-this-year-activity-7413983332285394944-IgSc
+
+What Author B recommends
+Ashley Faus places less emphasis on having a sharp or “spiky” stance and more emphasis on building trust through consistency, recognizable tone, and human connection. Her view suggests that LinkedIn content becomes stronger when it feels conversational, natural, and relatable rather than overly engineered around distinctiveness alone.
+Source: Ashley Faus, LinkedIn, 1 month ago (accessed 2026-04-23),
+https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
+
+Which side I take and why
+I side more with Tas Bober on strategy, but with Ashley Faus on delivery. In B2B SaaS, content without a clear point of view is too easy to ignore. However, I do not think distinctiveness should be expressed through forced controversy or unnatural tone. The best version of this playbook is a differentiated point of view communicated in a human, conversational way.
+
+### 8.4 Founder-led personal profile vs company-wide message system
+
+What Author A recommends
+Tommy Clark argues that the founder or subject-matter expert’s personal profile should be the main engine for LinkedIn growth. His view is that personal profiles outperform company pages in the early stages because people trust people faster than they trust logos, and the profile can function like a landing page for attention and demand.
+Source: Tommy Clark, YouTube, September 30, 2024,
+https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+What Author B recommends
+Ashley Lewin’s roundtable contribution puts more emphasis on strategic narrative as the real operating system behind organic content. In that view, the main asset is not the founder profile itself, but the company-wide message structure that aligns leadership, sales, website messaging, digital assets, and thought leadership.
+Source: Ashley Lewin / Refine Labs roundtable, YouTube, March 5, 2025,
+https://www.youtube.com/watch?v=j-ofOpioKWM
+
+Which side I take and why
+I side more with Tommy Clark for early-stage execution. For an early-stage B2B SaaS company, the founder or expert profile is usually the fastest and most effective way to build trust and reach the right audience. However, I also agree with Ashley Lewin that this profile should not operate without message discipline. So in this playbook, the founder profile is the main publishing engine, but the company-wide strategic narrative remains the foundation underneath it.
+
 ## 9. What I Rejected and Why
 ## 10. My Original Ideas
 ## 11. Weaknesses of This Playbook
