@@ -16,7 +16,7 @@ Define one clear point of view or positioning anchor before building content pil
 **Sources:**
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    05.03.2025    
+    March 5, 2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 - Tas Bober  
     LinkedIn  
@@ -37,7 +37,7 @@ Build content around real audience problems, buying context, and language rather
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    05.03.2025    
+    March 5, 2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 3.3 Consistency matters more than occasional bursts
@@ -60,7 +60,7 @@ Choose a posting cadence you can actually sustain for months, not a burst strate
 
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    05.03.2025    
+    March 5, 2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 3.4 Distribution is part of the job, not an afterthought
@@ -80,7 +80,7 @@ Treat every strong content asset as something to distribute, repurpose, and rela
 
 David Ellis argues that short-form content still has value, but often does not do the heavy lifting needed to build enough time, trust, and depth for B2B buyers. His model treats long-form content as the trust-building engine and short-form LinkedIn content as the distribution layer built from that engine. The transcript also shows that authentic long-form content can later be repurposed into LinkedIn posts with AI, but AI should not be used to generate shallow content from nothing.
 
-**Recommendation**  
+**Recommendation:**  
 Use long-form content as the source material for LinkedIn posts instead of relying on standalone short-form content alone.
 
 **Source:**  
@@ -93,7 +93,7 @@ Use long-form content as the source material for LinkedIn posts instead of relyi
 
 Tommy Clark recommends that founders prioritize their personal account over the company page for early LinkedIn growth. In the transcript, he explains that personal accounts on LinkedIn tend to dominate, that people want to follow people, and that it is much easier to grow from a personal account. He also recommends treating the founder’s profile like a landing page designed to convert visitors into followers and followers into customers. This is especially useful for B2B SaaS teams that do not yet have a large brand audience and need faster trust formation through a person rather than a logo.
 
-**Recommendation**  
+**Recommendation:**  
 Use the founder or subject-matter expert’s personal profile as the primary organic growth surface, especially in the early stages.
 
 **Sources**
@@ -110,7 +110,7 @@ The strategy recommended by this playbook is a **founder-led or expert-led Linke
 
 Pick one topic, category, or market position the company or founder wants to own. This should act as the center of gravity for the content system. Devin Reed’s example of choosing one word to own and using it as a North Star is especially useful here because it keeps the brand focused and makes the content more recognizable to the right audience. Repeatedly tying posts back to the same anchor helps build mindshare over time instead of scattering attention across unrelated themes.
 
-**Recommendation**  
+**Recommendation:**  
 Define one positioning anchor first, then build content around it instead of chasing unrelated topics.
 
 **Source:**  
@@ -123,7 +123,7 @@ Define one positioning anchor first, then build content around it instead of cha
 
 A structured LinkedIn system works better when content is organized into a small number of repeatable pillars rather than created from scratch every time. Devin Reed explicitly recommends identifying 2–3 content pillars as guardrails that keep the brand focused and aligned with audience pain points. The Refine Labs roundtable supports this by showing that once a strong point of view is established, content pillars can be used to support and repeat that opinion in a structured way. These pillars should sit under one main positioning anchor and help the team repeat core ideas without becoming random.
 
-**Recommendation**  
+**Recommendation:**  
 Use 2–4 repeatable content pillars under one main positioning theme.
 
 **Sources**
@@ -134,20 +134,20 @@ Use 2–4 repeatable content pillars under one main positioning theme.
 
 - **Ashley Lewin**  
   YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-  05.03.2025  
+  March 5, 2025  
   https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 4.3 Build one core asset, then repurpose aggressively
 
 The strongest operating model in this research set is to create one meaningful content asset and turn it into many downstream outputs. Refine Labs describes a repeatable content flywheel where one long-form recording becomes a newsletter, podcast episode, YouTube clip, short-form social content, and visual assets. David Ellis supports the same logic by treating long-form as the trust-building engine and short-form LinkedIn content as a repurposed layer built from that engine. Ross Simmonds reinforces the distribution side of this model by showing how one asset can be atomized, reformatted, redistributed, and extended across channels over time.
 
-**Recommendation**  
+**Recommendation:**  
 Start with one core asset, then atomize it into LinkedIn posts, clips, email content, and supporting assets.
 
 **Source:**  
 - Ashley Lewin  
     YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-    05.03.2025    
+    March 5, 2025    
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 - David Ellis  
@@ -177,31 +177,31 @@ Create content that clarifies the audience’s world and pain points before dire
 
 Ashley Faus and the Refine Labs roundtable both support a more human, recognizable content style. Faus argues that the line between personal and professional matters less than consistency, because audiences learn to recognize a creator through repeated tone, topics, and style. The Refine Labs roundtable reinforces this by recommending a well-documented brand voice that can adapt across mediums while still maintaining a consistent flow. Together, these sources suggest that trust and memory strengthen when the voice feels human, recognizable, and stable over time.
 
-**Recommendation**  
+**Recommendation:**  
 Keep brand voice recognizable, human, and consistent across posts, even when adapting for different formats.
 
 **Source:**
 - Ashley Faus  
   LinkedIn  
-  1 month ago (accessed 2026-04-19)  
+  1 month ago (accessed 2026-04-22)  
   https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
 
 - Ashley Lewin   
   YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
-  05.03.2025  
+  March 5, 2025  
   https://www.youtube.com/watch?v=j-ofOpioKWM
 
 ### 4.6 Optimize for qualified attention, not just reach
 
-Dave Gerhardt highlights the reality of long and complex B2B buying cycles, while David Ellis emphasizes that reach and engagement alone do not necessarily translate into leads or revenue. Ellis argues that what matters more is whether content builds trust, increases meaningful time spent with the brand, and helps potential buyers move closer to a purchase decision. Taken together, these sources suggest that LinkedIn organic strategy should not be evaluated only through likes, impressions, or immediate conversions, but through the quality of attention it creates and its contribution to long-term demand.
+Dave Gerhardt’s framing around long B2B buying cycles and thought leadership, combined with David Ellis’s focus on trust and deeper time spent with the brand, suggests that good LinkedIn organic strategy should not be measured only by immediate conversions or shallow engagement. The goal is to generate attention from the right people and move them closer to remembering, trusting, and eventually buying.
 
 **Recommendation:**  
 Evaluate LinkedIn organic performance based on qualified attention, trust signals, and pipeline influence, not just likes or reach.
 
-**Source:**  
-- Dave Gerhardt 
+**Source:**
+- Dave Gerhardt  
   LinkedIn  
-  1 month ago (accessed 2026-04-22)  
+  1 month ago (accessed 2026-04-19)  
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 - David Ellis  
@@ -209,8 +209,181 @@ Evaluate LinkedIn organic performance based on qualified attention, trust signal
     October 15, 2025 
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
-
 ## 5. Step-by-Step SOP
+### 5.1 Choose the primary voice and optimize the profile
+Select one founder or subject-matter expert to act as the main organic content voice. Use the personal profile as the main growth surface, not the company page, especially in the early stages. Optimize the profile so it clearly communicates who the person helps, what they are known for, and what the next step should be for visitors. Treat the profile like a landing page that converts visitors into followers and followers into customers.
+
+**Recommendation:**  
+Use the founder or subject-matter expert’s personal profile as the main LinkedIn growth surface and optimize it for clarity, credibility, and conversion.
+
+**Source:**
+- Tommy Clark    
+  YouTube – The Best LinkedIn Content Strategy for SaaS  
+  September 30, 2024     
+  https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+### 5.2 Define one positioning anchor
+
+Pick one topic, category, or market position the company or founder wants to own. This should act as the center of gravity for the content system. Devin Reed’s idea of choosing one word to own and using it as a North Star is especially useful here because it keeps every post tied to the same core idea. Ashley Lewin reinforces this by arguing that differentiation is key and that the anchor should come first. The goal is to make the account recognizable for one core idea rather than scattered across unrelated themes.
+
+**Recommendation:**  
+Define one positioning anchor first, then build content around it instead of chasing unrelated topics.
+
+**Source:**
+- Devin Reed  
+  LinkedIn  
+  6 months ago (accessed 2026-04-19)  
+  https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.3 Build 2–4 repeatable content pillars
+
+Once the positioning anchor is clear, create a small number of repeatable content pillars underneath it. Devin Reed describes content pillars as guardrails that keep the brand focused, while Ashley Lewin reinforces that these pillars should be built only after the main anchor is clear. In practice, these pillars should map to audience pain points, point of view, practical lessons, and useful education so the content system stays focused without becoming repetitive.
+
+**Recommendation:**  
+Use 2–4 repeatable content pillars under one main positioning theme.
+
+**Source:**
+- Devin Reed    
+  LinkedIn  
+  6 months ago (accessed 2026-04-23)  
+  https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.4 Build content from real audience problems
+Before writing any post, define the audience segment, the problem they are facing, and the real-world context they are operating in. George Coudounaris’s Rivet example shows that effective content is built around the actual jobs, pain points, and language of the ICP rather than around generic industry commentary. Ashley Lewin reinforces this by arguing that marketers should anchor on who the customer is, what they care about, what they are struggling with, and what kind of idea would actually feel relevant in their world. The goal is to make the audience feel understood and to create content that helps them clarify or solve a meaningful problem.
+
+**Recommendation:**  
+Build content around real audience problems, buying context, and language rather than broad industry commentary.
+
+**Source:**
+- George Coudounaris  
+    YouTube -  The 2026 B2B Content Strategy Most Marketers Miss  
+    November 19, 2025  
+    https://www.youtube.com/watch?v=HpuklBHd9nw
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.5 Create one core long-form asset first
+Start the workflow by producing one meaningful long-form asset, such as a video, podcast episode, recorded conversation, or in-depth thought piece. David Ellis argues that long-form content does the heavy lifting in B2B because it creates more time, credibility, familiarity, and trust than standalone short posts. The Refine Labs roundtable reinforces this operationally by showing how one long-form recording can become a newsletter, podcast episode, YouTube clip, short-form video, and additional visual assets. A single core asset can therefore serve as the source material for the wider content system.
+
+**Recommendation:**  
+Create one high-quality long-form asset first, then use it as the source material for the rest of the content system.
+
+**Source:**
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026 
+    October 15, 2025 
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.6 Repurpose the core asset into LinkedIn-ready formats
+Turn the long-form asset into multiple downstream pieces such as LinkedIn text posts, video clips, newsletter content, podcast content, and supporting visual assets. Repurposing should not mean repeating lazily; it should mean adapting the same core idea into formats that different people prefer to consume. Use AI to help restructure, transcribe, summarize, and accelerate repurposing, but do not use it to generate shallow content from nothing.
+
+**Recommendation**  
+Start with one core asset, then atomize it into LinkedIn posts, clips, email content, and supporting assets.
+
+**Source:**
+- Ross Simmonds  
+  LinkedIn post  
+  2 months ago (accessed 2026-04-23)  
+  https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
+
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026 
+    October 15, 2025 
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.7 Publish consistently on a sustainable cadence
+Choose a cadence that can realistically be maintained for months. Tommy Clark recommends frequent and consistent posting, while Ashley Faus argues that consistency matters more than perfection because audiences learn what to expect from a creator’s topics, tone, and vibe over time. The Refine Labs roundtable reinforces that consistency should come from execution systems, documented brand voice, and repeatable workflows rather than last-minute improvisation. Keep the voice human, recognizable, and consistent so the audience knows what kind of value to expect.
+
+**Recommendation:**  
+Choose a posting cadence you can actually sustain for months, and keep the voice consistent across formats.
+
+**Source:**
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    September 30, 2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+- Ashley Faus  
+  LinkedIn  
+  1 month ago (accessed 2026-04-23)  
+  https://www.linkedin.com/posts/ashleyfaus_wheres-the-line-between-personal-and-professional-activity-7438612824093958144-6HxM
+
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+
+### 5.8 Support posting with outbound engagement
+Do not rely on posting alone. Engage with ICP accounts, comment thoughtfully on relevant thought leaders, and send targeted connection requests to the right people. This increases the odds that the content gets seen by relevant buyers rather than just random viewers.
+
+**Recommendation:**  
+Pair content publishing with deliberate engagement toward ICP accounts and category thought leaders.
+
+**Source:**
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    September 30, 2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+### 5.9 Improve posts through review, not guesswork
+Review which posts generated the strongest impressions, follower growth, engagement, lead signals, and customer interest. Improve hooks, formatting, media, CTA strength, and flow over time instead of treating underperforming posts as dead ends. When a post performs well, build more around the same underlying idea instead of constantly chasing new ones.
+
+**Recommendation:**  
+Review performance regularly, improve format and messaging deliberately, and double down on what already resonates.
+
+**Source:**
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    September 30, 2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+
+- Devin Reed  
+    LinkedIn  
+    6 months ago accessed 2026-04-23  
+    https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+
+### 5.10 Measure qualified attention, trust, and pipeline influence
+
+Do not judge LinkedIn organic only by likes or raw reach. In B2B SaaS, the real goal is to influence the right buyers over time, strengthen recall, build trust, and increase the chances of future buying conversations. Stronger indicators include deeper content consumption, follower and audience growth among the right people, self-reported attribution, inbound interest, leads, customers, and downstream pipeline influence.
+
+**Recommendation:**  
+Evaluate LinkedIn organic performance based on qualified attention, trust signals, and pipeline influence, not just likes or reach.
+
+
+**Sources**
+- Dave Gerhardt  
+  LinkedIn  
+  1 month ago (accessed 2026-04-23)  
+  https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
+
+- David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026 
+    October 15, 2025 
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+
 ## 6. Content System
 ## 7. Measurement
 ## 8. Where Experts Disagree
