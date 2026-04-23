@@ -85,8 +85,8 @@ Use long-form content as the source material for LinkedIn posts instead of relyi
 
 **Source:**  
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ### 3.6 Personal profiles are usually the better starting point for early traction
@@ -151,8 +151,8 @@ Start with one core asset, then atomize it into LinkedIn posts, clips, email con
     https://www.youtube.com/watch?v=j-ofOpioKWM
 
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ross Simmonds  
@@ -205,8 +205,8 @@ Evaluate LinkedIn organic performance based on qualified attention, trust signal
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ## 5. Step-by-Step SOP
@@ -283,8 +283,8 @@ Create one high-quality long-form asset first, then use it as the source materia
 
 **Source:**
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ashley Lewin  
@@ -305,8 +305,8 @@ Start with one core asset, then atomize it into LinkedIn posts, clips, email con
   https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
 
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 - Ashley Lewin  
@@ -380,12 +380,45 @@ Evaluate LinkedIn organic performance based on qualified attention, trust signal
   https://www.linkedin.com/posts/davegerhardt_linkedin-is-the-number-one-channel-for-b2b-activity-7439654089778462720--k4c
 
 - David Ellis  
-    YouTube - The Best LinkedIn Content Strategy for 2026 
-    October 15, 2025 
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
     https://www.youtube.com/watch?v=SyjhGtV8CxI
 
 ## 6. Content System
+### 6.1 Core asset
+
+This playbook uses one core long-form asset as the center of the content system. That asset can be a recorded video, podcast episode, webinar segment, or in-depth thought piece. The goal is to create one strong source of substance before turning it into smaller LinkedIn-ready formats.
+
+### 6.2 Repurposing flow
+
+One core asset should be repurposed into multiple downstream pieces such as LinkedIn posts, short video clips, newsletter content, podcast distribution, and supporting visual assets. The system should treat repurposing as adaptation, not repetition, so the same idea can reach people in the format they prefer.
+
+### 6.3 Operating rhythm
+
+A simple version of this system is to create one core asset, repurpose it into several posts and supporting formats, publish consistently, support it with outbound engagement, and review what performs best. This makes the workflow more sustainable than creating every post from scratch.
+
+**Sources supporting this section**
+- Ashley Lewin  
+    YouTube – Building a Sustainable Organic Content Strategy | B2B Roundtable  
+    March 5, 2025    
+    https://www.youtube.com/watch?v=j-ofOpioKWM
+- - David Ellis  
+    YouTube - The Best LinkedIn Content Strategy for 2026  
+    October 15, 2025  
+    https://www.youtube.com/watch?v=SyjhGtV8CxI
+- Ross Simmonds  
+    LinkedIn post      
+    2 months ago accessed 2026-04-23  
+    https://www.linkedin.com/posts/rosssimmonds_b2b-content-distribution-masterclass-with-activity-7429623577907417088-rS74
+- Tommy Clark   
+    YouTube -  The Best LinkedIn Content Strategy for SaaS
+    September 30, 2024   
+    https://www.youtube.com/watch?v=5lcZl4iEjI0
+
 ## 7. Measurement
+
+
+
 ## 8. Where Experts Disagree
 ## 9. What I Rejected and Why
 ## 10. My Original Ideas
